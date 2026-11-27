@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Graphical-Abstract.jpeg" alt="Graphical abstract of the systematic review of deep learning for plant disease detection" width="900">
+</p>
+
 # Deep Learning Approaches for Plant Disease Detection in Precision Agriculture: A Systematic Literature Review
 
 This review synthesizes evidence from 83 studies on deep learning for plant disease detection. [`render_figures.py`](render_figures.py) reproduces the ten data figures (Figures 2–10 and 12) as 300 dpi PNGs.
