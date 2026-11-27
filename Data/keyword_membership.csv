@@ -1,0 +1,244 @@
+Paper_ID,Keyword
+P2,deep learning
+P2,learning systems
+P6,classification
+P6,plant disease(s)
+P6,disease detection
+P8,agriculture
+P8,computer vision
+P8,deep learning
+P8,plant disease(s)
+P9,classification
+P9,plant disease(s)
+P9,"crops, plants, fruits"
+P9,deep learning
+P9,image classification
+P9,transfer learning
+P13,deep learning
+P13,precision agriculture
+P13,"crops, plants, fruits"
+P13,"object detection, recognition"
+P14,image classification
+P14,transfer learning
+P16,deep learning
+P16,precision agriculture
+P17,convolutional neural networks
+P17,deep learning
+P17,plant disease(s)
+P18,computer vision
+P18,"crops, plants, fruits"
+P18,deep learning
+P18,disease detection
+P18,classification
+P20,deep learning
+P20,plant disease(s)
+P20,smart agriculture
+P20,transfer learning
+P20,agriculture
+P20,convolutional neural networks
+P20,learning systems
+P22,image classification
+P23,agriculture
+P23,deep learning
+P25,disease detection
+P25,precision agriculture
+P27,classification
+P27,transfer learning
+P27,plant disease(s)
+P27,disease detection
+P28,agriculture
+P28,computer vision
+P28,deep learning
+P28,disease detection
+P29,deep learning
+P29,"crops, plants, fruits"
+P29,precision agriculture
+P30,deep learning
+P30,disease detection
+P30,precision agriculture
+P30,transfer learning
+P31,attention mechanism
+P31,classification
+P31,"crops, plants, fruits"
+P31,deep learning
+P31,plant disease(s)
+P31,image classification
+P31,learning systems
+P31,smart agriculture
+P32,deep learning
+P33,deep learning
+P33,"crops, plants, fruits"
+P33,learning systems
+P33,plant disease(s)
+P33,precision agriculture
+P33,smart agriculture
+P34,computer vision
+P34,deep learning
+P34,agriculture
+P35,classification
+P35,"crops, plants, fruits"
+P35,deep learning
+P35,precision agriculture
+P37,precision agriculture
+P38,deep learning
+P38,image classification
+P39,deep learning
+P39,smart agriculture
+P40,deep learning
+P40,classification
+P40,"crops, plants, fruits"
+P40,learning systems
+P40,plant disease(s)
+P40,precision agriculture
+P40,transfer learning
+P41,plant disease(s)
+P42,deep learning
+P42,smart agriculture
+P42,vision transformer
+P43,computer vision
+P43,deep learning
+P44,computer vision
+P44,deep learning
+P44,precision agriculture
+P44,convolutional neural networks
+P44,"crops, plants, fruits"
+P45,deep learning
+P45,precision agriculture
+P45,classification
+P45,"crops, plants, fruits"
+P45,"object detection, recognition"
+P45,smart agriculture
+P46,plant disease(s)
+P46,precision agriculture
+P46,transfer learning
+P48,classification
+P48,deep learning
+P48,plant disease(s)
+P48,learning systems
+P48,precision agriculture
+P48,transfer learning
+P49,computer vision
+P49,deep learning
+P49,precision agriculture
+P49,vision transformer
+P50,deep learning
+P50,precision agriculture
+P50,vision transformer
+P51,attention mechanism
+P51,deep learning
+P52,plant disease(s)
+P52,deep learning
+P56,classification
+P56,deep learning
+P57,deep learning
+P57,precision agriculture
+P57,"crops, plants, fruits"
+P58,classification
+P58,plant disease(s)
+P59,precision agriculture
+P60,transfer learning
+P61,classification
+P61,computer vision
+P61,plant disease(s)
+P61,deep learning
+P61,precision agriculture
+P62,attention mechanism
+P62,deep learning
+P62,image classification
+P62,plant disease(s)
+P62,precision agriculture
+P63,deep learning
+P63,precision agriculture
+P64,computer vision
+P64,deep learning
+P64,"object detection, recognition"
+P64,classification
+P64,"crops, plants, fruits"
+P64,precision agriculture
+P65,deep learning
+P65,precision agriculture
+P66,computer vision
+P66,deep learning
+P66,"object detection, recognition"
+P66,precision agriculture
+P66,plant disease(s)
+P66,"crops, plants, fruits"
+P67,deep learning
+P68,computer vision
+P68,convolutional neural networks
+P68,deep learning
+P68,precision agriculture
+P69,deep learning
+P70,attention mechanism
+P70,deep learning
+P70,precision agriculture
+P71,plant disease(s)
+P72,transfer learning
+P74,deep learning
+P75,deep learning
+P75,vision transformer
+P75,classification
+P75,plant disease(s)
+P75,"crops, plants, fruits"
+P75,precision agriculture
+P76,deep learning
+P76,"object detection, recognition"
+P76,precision agriculture
+P76,"crops, plants, fruits"
+P77,deep learning
+P77,precision agriculture
+P78,deep learning
+P78,precision agriculture
+P80,precision agriculture
+P81,classification
+P81,deep learning
+P81,plant disease(s)
+P81,precision agriculture
+P81,"crops, plants, fruits"
+P82,deep learning
+P82,"crops, plants, fruits"
+P82,learning systems
+P82,precision agriculture
+P85,deep learning
+P86,attention mechanism
+P86,deep learning
+P87,attention mechanism
+P88,deep learning
+P89,deep learning
+P89,precision agriculture
+P90,deep learning
+P91,deep learning
+P91,plant disease(s)
+P92,plant disease(s)
+P92,precision agriculture
+P92,vision transformer
+P92,classification
+P92,deep learning
+P93,precision agriculture
+P94,deep learning
+P94,vision transformer
+P96,deep learning
+P96,disease detection
+P96,precision agriculture
+P98,plant disease(s)
+P98,precision agriculture
+P98,vision transformer
+P98,classification
+P98,deep learning
+P98,disease detection
+P98,"crops, plants, fruits"
+P99,computer vision
+P99,deep learning
+P99,precision agriculture
+P99,convolutional neural networks
+P99,"crops, plants, fruits"
+P99,"object detection, recognition"
+P100,plant disease(s)
+P100,deep learning
+P100,precision agriculture
+P103,precision agriculture
+P106,deep learning
+P106,convolutional neural networks
+P106,image classification
+P106,learning systems
+P106,precision agriculture

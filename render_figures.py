@@ -870,8 +870,8 @@ def save_figures(output, profile, data_dir):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--data-dir', type=Path, required=True,
-                        help='Directory with Final-Data.xlsx and the companion input CSVs')
+    parser.add_argument('--data-dir', type=Path, default=Path(__file__).resolve().parent / 'Data',
+                        help='Directory with Final-Data.xlsx and the companion input CSVs (default: Data/)')
     parser.add_argument('--output', type=Path, default=Path('figures'),
                         help='Directory for the manuscript-numbered PNGs')
     parser.add_argument('--font-dir', type=Path, default=DEFAULT_FONTS,
